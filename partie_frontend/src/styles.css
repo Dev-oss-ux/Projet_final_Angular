@@ -1,0 +1,38 @@
+* {
+  font-family: 'Arial', sans-serif;
+}
+
+
+html, body {
+  background-color: #757373;
+}
+
+
+
+nav {
+  margin-bottom: 2em;
+  margin: 9em;
+}
+
+label, p, a {
+  color: #fff;
+
+}
+
+.detailsBtn {
+  background-color: #00d44059;
+}
+
+.detailsBtn:hover {
+
+  background-color: #ccc;
+}
+
+.detailsBtnAdd {
+  background-color: #d4b40059;
+  margin: 1em 0em;
+}
+
+.detailsBtnView {
+  background-color: #000ed459;
+}
